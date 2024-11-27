@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:slicing_only/ngulik_widgets/1_reorderable_listview/reorderable_listview_screen.dart';
+import 'package:slicing_only/ngulik_widgets/reorderable_listview/reorderable_listview.dart';
 
 void main() {
   runApp(const MainApp());
